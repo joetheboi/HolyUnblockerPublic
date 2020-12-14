@@ -42,6 +42,9 @@ Be sure to join Titanium Network's Discord for more official site links: https:/
 &nbsp;
 <a href="https://glitch.com/edit/#!/import/github/QuiteAFancyEmerald/HolyUnblockerPublic" title="Remix on Glitch"><img alt="Remix on glitch" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/glitch.svg?raw" width="140" height="30"><img></a>
 
+<a href="https://console.aws.amazon.com/amplify/home#/deploy?repo=https://repl.it/github/QuiteAFancyEmerald/HolyUnblockerPublic">
+    <img src="https://oneclick.amplifyapp.com/button.svg" alt="Deploy to Amplify Console">
+
 ## Table of contents:
 
 - [Setup](#how-to-install)
